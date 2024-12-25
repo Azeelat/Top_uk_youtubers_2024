@@ -1,0 +1,6 @@
+title: Azeelat
+logo: assets/images/pp.jpg
+show_downloads: True
+remote_theme :
+plugins:
+-jekyll-remote-theme
